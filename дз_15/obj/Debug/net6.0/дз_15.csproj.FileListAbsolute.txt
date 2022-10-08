@@ -1,0 +1,15 @@
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\bin\Debug\net6.0\дз_15.exe
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\bin\Debug\net6.0\дз_15.deps.json
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\bin\Debug\net6.0\дз_15.runtimeconfig.json
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\bin\Debug\net6.0\дз_15.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\bin\Debug\net6.0\дз_15.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\дз_15.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\дз_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\дз_15.AssemblyInfoInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\дз_15.AssemblyInfo.cs
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\дз_15.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\дз_15.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\refint\дз_15.dll
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\дз_15.pdb
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\дз_15.genruntimeconfig.cache
+C:\Users\RUSLAN\Desktop\ДЗ\Массивы и функции\дз_15\obj\Debug\net6.0\ref\дз_15.dll
